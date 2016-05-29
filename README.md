@@ -1,0 +1,2 @@
+# IdealSlide
+a slide plugin
